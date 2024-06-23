@@ -1,0 +1,25 @@
+1. What does the "Category_Grouped" column represent, and how many unique 
+categories are there?
+2. List the top 5 shipping cities in terms of the number of orders.
+3. Show me a table with all the data for products that belong to the "Electronics" 
+category.
+4. Filter the data to show only rows with a "Sale_Flag" of 'Yes'.
+5. Sort the data by "Item_Price" in descending order. What is the most expensive 
+item?
+6. Calculate the average "Quantity" sold for products in the "Clothing" category, 
+grouped by "Product_Gender."
+7. Find the top 5 products with the highest "Value_CM1" and "Value_CM2" ratios. 
+8. Identify the top 3 "Class" categories with the highest total sales. 
+9. Find the total sales for each "Brand" and display the top 3 brands in terms of sales.
+10. Calculate the total revenue generated from "Electronics" category products with a 
+"Sale_Flag" of 'Yes'.
+11. Identify the top 5 shipping cities based on the average order value (total sales 
+amount divided by the number of orders) and display their average order values.
+12. Determine the total number of orders and the total sales amount for each 
+"Product_Gender" within the "Clothing" category.
+13. Calculate the percentage contribution of each "Category" to the overall total sales.
+14. Identify the "Category" with the highest average "Item_Price" and its corresponding
+average price.
+15. Find the month with the highest total sales revenue.
+16. Calculate the total sales for each "Segment" and the average quantity sold per 
+order for each segment.
