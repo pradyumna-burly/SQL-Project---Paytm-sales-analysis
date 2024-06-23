@@ -1,3 +1,6 @@
+This Repository contains SQL queries to analyze Paytm Sales data.
+Below are some of the questions which I tried to answer through this analysis: 
+
 1. What does the "Category_Grouped" column represent, and how many unique 
 categories are there?
 2. List the top 5 shipping cities in terms of the number of orders.
